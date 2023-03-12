@@ -1,5 +1,5 @@
-print("File size calculator in KiB, MiB, GiB")
-filetype = input("Enter the type of file: Image (I) or Sound (S): ")
+print('File size calculator in KiB, MiB, GiB')
+filetype = input('Enter the type of file: Image (I) or Sound (S): ')
 
 def file_size(x, y, z):
     size = round((x * y * z) / 8)
