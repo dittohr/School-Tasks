@@ -1,3 +1,3 @@
-#School-Tasks
+# School-Tasks
 
 Computer Science Task Repository
