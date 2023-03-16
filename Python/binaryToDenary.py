@@ -1,3 +1,5 @@
+# 바이너리 - 디너리 변환
+
 print("Binary to Denary converter")
 
 binary = ""

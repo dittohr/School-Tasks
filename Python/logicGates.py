@@ -1,3 +1,5 @@
+# 간단한 논리 회로 계산기
+
 print('Logic Gates')
 
 def ANDgate(A, B):

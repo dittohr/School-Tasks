@@ -1,3 +1,5 @@
+# 원하는 만큼 유니코드로 변환
+
 print('Character codes')
 
 #출력할 개수 입력

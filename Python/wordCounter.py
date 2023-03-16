@@ -1,3 +1,5 @@
+# 뀨
+
 print ("Word Counter")
 
 def wordcount(myString):

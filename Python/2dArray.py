@@ -1,3 +1,5 @@
+# 왜 만들라 한건지 모르겠는데
+
 import random
 
 print("2D array")

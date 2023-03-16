@@ -1,3 +1,5 @@
+# 이미지/음성 파일의 크기를 계산해준다 
+
 print('File size calculator in KiB, MiB, GiB')
 filetype = input('Enter the type of file: Image (I) or Sound (S): ')
 

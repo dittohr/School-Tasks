@@ -1,3 +1,5 @@
+# BMI 수치 검사
+
 print("Body Mass Index (BMI)")
 name=input("Enter your name: ")
 

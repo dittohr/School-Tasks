@@ -1,3 +1,5 @@
+# IGCSE Computer Science 시험의 결과에 따라 등급을 계산해준다
+
 print('Grades Calculator')
 
 def grade(intScore):

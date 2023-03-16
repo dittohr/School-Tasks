@@ -1,3 +1,5 @@
+# 말 그대로 숫자를 맞히는 게임
+
 import random
 
 print('Guess the Number')

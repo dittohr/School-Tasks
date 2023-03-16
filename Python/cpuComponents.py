@@ -1,3 +1,5 @@
+# 이것도 왜 만들라 한 것인지는 모르겠지만 index를 어떻게 사용해야 할지 알게 되었다.
+
 print("Components of a CPU")
 
 cpuComponents = [
